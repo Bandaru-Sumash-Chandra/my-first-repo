@@ -1,2 +1,2 @@
 # my-first-repo
-Sumash Chandra Bandaru - Italy
+its my lab repository Sumash Chandra Bandaru - Italy
